@@ -1,6 +1,6 @@
 # Impacta Streaming – Aula Prática Kafka (Data Integration)
 
-Curso: MBA em Data Engineering
+Curso: MBA em Data Engineering  
 Professor: André Ricardo  
 Disciplina: Integrated Data Platforms  
 Aluno: Silvio Cezar da Silva Teles  
